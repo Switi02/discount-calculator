@@ -57,3 +57,11 @@ input{
 #total{
     text-align: centers;
 }
+.socialMedia{
+    text-align: end;
+}
+a{
+    margin-right: 25px;
+    font-weight: bolder;
+    font-size: x-large;
+}
